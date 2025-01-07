@@ -12,6 +12,8 @@ pnpm run preview
 
 In this project we are implementing a autocomplete search bar component using React. The component will fetch data from an API and display the results in a dropdown list. For that we are using a third-party API called [TheMovieDB](https://developer.themoviedb.org/reference/search-movie). We laso are using debouncing to avoid making too many requests to the API.
 
+**Note: To avoid you from having to create an account in TheMovieDB, I already have added the API KEY in the code intentionally**
+
 **Developing Hours: 4 hours**
 
 ## Part 02: Questions
